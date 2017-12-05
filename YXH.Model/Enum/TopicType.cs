@@ -9,21 +9,21 @@
         /// 未设置
         /// </summary>
         None,
-        /// <summary>
-        /// 客观题
-        /// </summary>
-        ChoiceQuestion,
-        /// <summary>
-        /// 填空题
-        /// </summary>
-        GapFilling,
-        /// <summary>
-        /// 主观题
-        /// </summary>
-        SubjectiveItem,
-        /// <summary>
-        /// 隐藏区域
-        /// </summary>
-        HideArea
+        ///// <summary>
+        ///// 客观题
+        ///// </summary>
+        //ChoiceQuestion,
+        ///// <summary>
+        ///// 填空题
+        ///// </summary>
+        //GapFilling,
+        ///// <summary>
+        ///// 主观题
+        ///// </summary>
+        //SubjectiveItem,
+        ///// <summary>
+        ///// 隐藏区域
+        ///// </summary>
+        //HideArea
     }
 }

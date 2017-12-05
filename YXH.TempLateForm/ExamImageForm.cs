@@ -321,7 +321,7 @@ namespace YXH.TemplateForm
         /// <summary>
         /// 当前选中的题类型
         /// </summary>
-        private TopicType _curTopicType;
+        private int _curTopicType;
         /// <summary>
         /// 当前开始题号
         /// </summary>
@@ -2209,7 +2209,7 @@ namespace YXH.TemplateForm
 
             OmrObjective omrObjective = new OmrObjective();
 
-            omrObjective.topicType = (int)TopicType.ChoiceQuestion;
+            omrObjective.topicType = 0;
             omrObjective.ItemBlobSort = num;
             omrObjective.region = region;
             omrObjective.objectiveItems = list.ToArray();
@@ -2515,13 +2515,14 @@ namespace YXH.TemplateForm
 
                 return;
             }
-            if (_curTopicType == TopicType.None)
+            if (_curTopicType == 0)
             {
                 MessageBox.Show("请选择题类型", "提示");
 
                 return;
             }
-            if (_curTopicType == TopicType.GapFilling && _startQid > _endQid)
+            // if (_curTopicType == TopicType.GapFilling && _startQid > _endQid)
+            if (_startQid > _endQid)
             {
                 MessageBox.Show("结束题号不能小于开始题号", "提示");
 
@@ -2592,7 +2593,7 @@ namespace YXH.TemplateForm
                 }
             }
 
-            _temSubjectiveList[_temSubjectiveList.Count - 1].TopicType = (int)_curTopicType;
+            _temSubjectiveList[_temSubjectiveList.Count - 1].TopicType = _curTopicType;
             _temSubjectiveList[_temSubjectiveList.Count - 1].StartQid = _startQid;
             _temSubjectiveList[_temSubjectiveList.Count - 1].EndQid = _endQid;
 
@@ -2610,7 +2611,7 @@ namespace YXH.TemplateForm
             this._activeRect = null;
             this.modifyObject = null;
             this.CurrentOP = OperationType.SUBJECTIVE_OMR;
-            _curTopicType = TopicType.None;
+            _curTopicType = 0;
             _startQid = _endQid = 0;
 
             this.pictureBox.Invalidate();
@@ -2674,7 +2675,7 @@ namespace YXH.TemplateForm
             this._editType = EditType.NONE;
             this._editTemplate = null;
             this.Cursor = Cursors.Arrow;
-            _curTopicType = TopicType.None;
+            _curTopicType = 0;
             _startQid = _endQid = 0;
 
             this.pictureBox.Invalidate();
@@ -2703,7 +2704,7 @@ namespace YXH.TemplateForm
 
             KeyValue<int, string> kv = cb.Items[cb.SelectedIndex] as KeyValue<int, string>;
 
-            _curTopicType = (TopicType)((int)kv.Key);
+            _curTopicType = (int)kv.Key;
 
             _activeRect.context.Hide();
 
@@ -2770,8 +2771,9 @@ namespace YXH.TemplateForm
             {
                 OmrSubjective os = (modifyObject as OmrSubjective);
 
-                _curTopicType = ((TopicType)os.TopicType);
-                index = (_curTopicType == TopicType.GapFilling) ? 1 : 2;
+                _curTopicType = os.TopicType;
+                //    index = (_curTopicType == TopicType.GapFilling) ? 1 : 2;
+                index = _curTopicType;
                 startQid = os.StartQid.ToString();
                 endQid = os.EndQid.ToString();
             }
@@ -2788,7 +2790,7 @@ namespace YXH.TemplateForm
                 }
             });
 
-            if (_curTopicType == TopicType.GapFilling)
+            if (_curTopicType == 3)
             {
                 subjectiveOmrContext.AddTOperation(new OperationContext.Operation[]
                 {
@@ -2812,7 +2814,7 @@ namespace YXH.TemplateForm
                     }
                 });
             }
-            else if (_curTopicType == TopicType.SubjectiveItem)
+            else if (_curTopicType == 4)
             {
                 subjectiveOmrContext.AddTOperation(new OperationContext.Operation[]
                 {
