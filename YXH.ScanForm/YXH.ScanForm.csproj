@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F86960AE-8F8D-4626-BFA0-B30350E19178}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>YXH.ScanForm</RootNamespace>
+    <AssemblyName>YXH.ScanForm</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>发布\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CommonDLLs\DevExpress.Data.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CommonDLLs\DevExpress.Utils.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CommonDLLs\DevExpress.XtraBars.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CommonDLLs\DevExpress.XtraEditors.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CommonDLLs\DevExpress.XtraGrid.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CommonDLLs\DevExpress.XtraTreeList.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="openCV">
+      <HintPath>..\CommonDLLs\openCV.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CheckStatiscsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckStatiscsForm.Designer.cs">
+      <DependentUpon>CheckStatiscsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckStatiscsFormRes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CheckStatiscsFormRes.resx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdjustScanImg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdjustScanImg.Designer.cs">
+      <DependentUpon>FormAdjustScanImg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLeakCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLeakCheck.Designer.cs">
+      <DependentUpon>FormLeakCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLeakCheckRes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FormLeakCheckRes.resx</DependentUpon>
+    </Compile>
+    <Compile Include="FormRote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRote.Designer.cs">
+      <DependentUpon>FormRote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRoteRes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FormRoteRes.resx</DependentUpon>
+    </Compile>
+    <Compile Include="FormSearchStuInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSearchStuInfo.Designer.cs">
+      <DependentUpon>FormSearchStuInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSearchStuInfoRes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FormSearchStuInfoRes.resx</DependentUpon>
+    </Compile>
+    <Compile Include="FormSwapVolumn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSwapVolumn.Designer.cs">
+      <DependentUpon>FormSwapVolumn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaterialsScanSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaterialsScanSetting.Designer.cs">
+      <DependentUpon>MaterialsScanSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaterialsUploadForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaterialsUploadForm.Designer.cs">
+      <DependentUpon>MaterialsUploadForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScanExamImageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScanExamImageForm.Designer.cs">
+      <DependentUpon>ScanExamImageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScanFinishForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScanFinishForm.Designer.cs">
+      <DependentUpon>ScanFinishForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScannerSettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScannerSettingForm.Designer.cs">
+      <DependentUpon>ScannerSettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScannerSettingFormRes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ScannerSettingFormRes.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ScanOperateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScanOperateForm.Designer.cs">
+      <DependentUpon>ScanOperateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScanOperateFormRes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ScanOperateFormRes.resx</DependentUpon>
+    </Compile>
+    <Compile Include="StatisticForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StatisticForm.Designer.cs">
+      <DependentUpon>StatisticForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StatisticFormRes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StatisticFormRes.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CheckStatiscsFormRes.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>CheckStatiscsFormRes.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdjustScanImg.resx">
+      <DependentUpon>FormAdjustScanImg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLeakCheck.resx">
+      <DependentUpon>FormLeakCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLeakCheckRes.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>FormLeakCheckRes.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRote.resx">
+      <DependentUpon>FormRote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRoteRes.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>FormRoteRes.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSearchStuInfo.resx">
+      <DependentUpon>FormSearchStuInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSearchStuInfoRes.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>FormSearchStuInfoRes.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSwapVolumn.resx">
+      <DependentUpon>FormSwapVolumn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaterialsScanSetting.resx">
+      <DependentUpon>MaterialsScanSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaterialsUploadForm.resx">
+      <DependentUpon>MaterialsUploadForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ScanExamImageForm.resx">
+      <DependentUpon>ScanExamImageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScanFinishForm.resx">
+      <DependentUpon>ScanFinishForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScannerSettingForm.resx">
+      <DependentUpon>ScannerSettingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScannerSettingFormRes.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ScannerSettingFormRes.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScanOperateForm.resx">
+      <DependentUpon>ScanOperateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScanOperateFormRes.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ScanOperateFormRes.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatisticForm.resx">
+      <DependentUpon>StatisticForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatisticFormRes.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>StatisticFormRes.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\YXH.Common.Form\YXH.Common.Form.csproj">
+      <Project>{4233bfe4-82b1-47c4-a05c-78ab5d7b571a}</Project>
+      <Name>YXH.Common.Form</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YXH.Common\YXH.Common.csproj">
+      <Project>{10539cbc-bda7-45c5-a1eb-4897b67f0a28}</Project>
+      <Name>YXH.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YXH.HttpHelper\YXH.HttpHelper.csproj">
+      <Project>{f6ba9ddf-7d85-4a81-ab46-18defd708019}</Project>
+      <Name>YXH.HttpHelper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YXH.Model\YXH.Model.csproj">
+      <Project>{7ee45044-7b00-49e2-b681-b152471dbc68}</Project>
+      <Name>YXH.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YXH.ScanBLL\YXH.ScanBLL.csproj">
+      <Project>{a6dd593d-206d-4217-b9d6-be88cf184be4}</Project>
+      <Name>YXH.ScanBLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_CheckSrFolder.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnExamPaperImage.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnCWRotate90.BackgroundImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnRotateCCW90.BackgroundImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnRotateCCW180.BackgroundImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_Cancel.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\this.Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\formLeakCheck.Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picBox_DailyComoplete.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picBox_speed.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picBox_WaitForDealwith.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="DevExpress.Data.v13.2">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Utils.v13.2">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraBars.v13.2">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraEditors.v13.2">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraGrid.v13.2">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraTreeList.v13.2">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CheckBox.Normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CheckBox.Selected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OKButton.BackImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CheckBox.Selected.Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button.ContinueScan.ico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button.FinishScan.ico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OpenFolderImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Setting.ico.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

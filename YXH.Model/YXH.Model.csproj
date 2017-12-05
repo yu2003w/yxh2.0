@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7EE45044-7B00-49E2-B681-B152471DBC68}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>YXH.Model</RootNamespace>
+    <AssemblyName>YXH.Model</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <DelaySign>false</DelaySign>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Enum\MarkingStatus.cs" />
+    <Compile Include="Enum\EditType.cs" />
+    <Compile Include="Enum\ArrangementModeEnum.cs" />
+    <Compile Include="Enum\SchoolType.cs" />
+    <Compile Include="Enum\MatirialsType.cs" />
+    <Compile Include="Enum\OperationType.cs" />
+    <Compile Include="Enum\BaseOperation.cs" />
+    <Compile Include="Enum\PaperOperateStatus.cs" />
+    <Compile Include="Enum\PaperResourceStatus.cs" />
+    <Compile Include="Enum\TemplateState.cs" />
+    <Compile Include="Enum\TopicType.cs" />
+    <Compile Include="Enum\UploadType.cs" />
+    <Compile Include="Enum\StatisDataMode.cs" />
+    <Compile Include="Enum\SchoolNumberType.cs" />
+    <Compile Include="Enum\PageSize.cs" />
+    <Compile Include="Enum\OmrType.cs" />
+    <Compile Include="Enum\ErrorStatus.cs" />
+    <Compile Include="Enum\RoomMatchStatus.cs" />
+    <Compile Include="Enum\OperateStatus.cs" />
+    <Compile Include="Enum\OmrValueType.cs" />
+    <Compile Include="Enum\VolumeStatus.cs" />
+    <Compile Include="Enum\SQLRequestParamType.cs" />
+    <Compile Include="Enum\OmrErrorStrategy.cs" />
+    <Compile Include="Enum\OpenTemplateMode.cs" />
+    <Compile Include="Enum\ImgSourceType.cs" />
+    <Compile Include="Enum\UnionExamSchoolRole.cs" />
+    <Compile Include="Enum\DownLoadMode.cs" />
+    <Compile Include="Enum\ExamType.cs" />
+    <Compile Include="Enum\ScanMode.cs" />
+    <Compile Include="Enum\ResultState.cs" />
+    <Compile Include="HttpResponse\ApiResponse.cs" />
+    <Compile Include="HttpResponse\ApiResponseBase.cs" />
+    <Compile Include="HttpResponse\ApiResponseT.cs" />
+    <Compile Include="HttpResponse\ErrorInfo.cs" />
+    <Compile Include="Model\CvRect.cs" />
+    <Compile Include="Model\BarCodeSchoolNumber.cs" />
+    <Compile Include="Model\ExamGrade.cs" />
+    <Compile Include="Model\ExamGroup.cs" />
+    <Compile Include="Model\FileVersionInfo.cs" />
+    <Compile Include="Model\Response\ExamGradeResponse.cs" />
+    <Compile Include="Model\StudentItemPaperSave.cs" />
+    <Compile Include="Model\Teacher.cs" />
+    <Compile Include="Model\TemplateSave.cs" />
+    <Compile Include="Model\VersionInfo.cs" />
+    <Compile Include="Model\PublishVersionInfo.cs" />
+    <Compile Include="Model\ObjectItem .cs" />
+    <Compile Include="Model\DisplayName.cs" />
+    <Compile Include="Model\StudentPaperPic.cs" />
+    <Compile Include="Model\StrdentPaper.cs" />
+    <Compile Include="Model\Permission.cs" />
+    <Compile Include="Model\PermissionConstant.cs" />
+    <Compile Include="Model\Response\ExamGroupResponse.cs" />
+    <Compile Include="Model\Response\StudentPaperResponse.cs" />
+    <Compile Include="Model\Response\ExamInfoResponse.cs" />
+    <Compile Include="Model\Response\StudentExamInfoResponse.cs" />
+    <Compile Include="Model\Response\TemplateInfoResponse.cs" />
+    <Compile Include="Model\ScanMsg.cs" />
+    <Compile Include="Model\StudentItemPaperInfo.cs" />
+    <Compile Include="Model\HideArea.cs" />
+    <Compile Include="Model\OmrSubjective.cs" />
+    <Compile Include="Model\Request\LoginModel.cs" />
+    <Compile Include="Model\ResItemStatus.cs" />
+    <Compile Include="Model\Response\PermissionResponse.cs" />
+    <Compile Include="Model\ZKTemplateInfo.cs" />
+    <Compile Include="Model\TestletsArgumentModel.cs" />
+    <Compile Include="Model\UploadMeta.cs" />
+    <Compile Include="Model\UploadMetaParam.cs" />
+    <Compile Include="Model\StudentInfo.cs" />
+    <Compile Include="Model\rediesQuestion.cs" />
+    <Compile Include="Model\rediesObjectiveItem.cs" />
+    <Compile Include="Model\ResourceRecord.cs" />
+    <Compile Include="Model\OmrArray.cs" />
+    <Compile Include="Model\ScanStatistics.cs" />
+    <Compile Include="Model\ExamPaper.cs" />
+    <Compile Include="Model\TemplateInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Model\Page.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Model\OmrObjective.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Model\KeyValue.cs" />
+    <Compile Include="Model\OmrObjectiveItem.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Model\Num.cs" />
+    <Compile Include="Model\QRSchoolNumber.cs" />
+    <Compile Include="Model\OmrSchoolNumber.cs" />
+    <Compile Include="Model\TitleLocal.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Model\Points.cs" />
+    <Compile Include="Model\ExaminationPaper.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Model\LocalSettingConfig.cs" />
+    <Compile Include="Model\OmrItem.cs" />
+    <Compile Include="Model\ScanInfoInDays.cs" />
+    <Compile Include="Model\UnionExamSchoolInfo.cs" />
+    <Compile Include="ZKEMC.Twain.Structure\TwVersion.cs" />
+    <Compile Include="ZKEMC.Twain.Structure\TwIdentity.cs" />
+    <Compile Include="ZKEMC.Twain.Structure\hcontainer.cs" />
+    <Compile Include="ZKEMC.Twain.Structure\CapabilityResult.cs" />
+    <Compile Include="ZKEMC.Twain.Structure\SuportSizeInfo.cs" />
+    <Compile Include="Model\StudentExamInfo.cs" />
+    <Compile Include="Model\ScanRecord.cs" />
+    <Compile Include="Model\ExamInfo.cs" />
+    <Compile Include="Model\UserInfo.cs" />
+    <Compile Include="Model\MachineConfig.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ZKEMC.Twain.Structure\Enum\SuportSize.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

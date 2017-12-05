@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2644C488-6BAE-4179-ADDD-A82B235A0E7B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>YXH.TemplateForm</RootNamespace>
+    <AssemblyName>YXH.TemplateForm</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CodeTypeSelectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CodeTypeSelectForm.Designer.cs">
+      <DependentUpon>CodeTypeSelectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonCode\LabelTagInfo.cs" />
+    <Compile Include="CommonCode\LabelPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CommonCode\ContentPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CommonCode\BandTagInfo.cs" />
+    <Compile Include="CommonCode\BandButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CommonCode\BandPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CommonCode\ControlOperationContext.cs" />
+    <Compile Include="CommonCode\OutlookBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CommonCode\RoundRectButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CommonCode\RoundButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CommonCode\ImagePage.cs" />
+    <Compile Include="CommonCode\OperationContext.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CommonCode\ResizableRectangle.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CommonRes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CommonRes.resx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomForm.Designer.cs">
+      <DependentUpon>CustomForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExamImageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExamImageForm.Designer.cs">
+      <DependentUpon>ExamImageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExamImageFormRes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ExamImageFormRes.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ModifyNumForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifyNumForm.Designer.cs">
+      <DependentUpon>ModifyNumForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScannerSettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScannerSettingForm.Designer.cs">
+      <DependentUpon>ScannerSettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScannerSettingFormRes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ScannerSettingFormRes.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SettingTestletsArgument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettingTestletsArgument.Designer.cs">
+      <DependentUpon>SettingTestletsArgument.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SettintBlobArguments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettintBlobArguments.Designer.cs">
+      <DependentUpon>SettintBlobArguments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TempalteMakerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TempalteMakerForm.Designer.cs">
+      <DependentUpon>TempalteMakerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TempalteMakerFormRes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TempalteMakerFormRes.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TemplateSettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TemplateSettingForm.Designer.cs">
+      <DependentUpon>TemplateSettingForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CodeTypeSelectForm.resx">
+      <DependentUpon>CodeTypeSelectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonRes.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>CommonRes.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomForm.resx">
+      <DependentUpon>CustomForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExamImageForm.resx">
+      <DependentUpon>ExamImageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExamImageFormRes.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ExamImageFormRes.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifyNumForm.resx">
+      <DependentUpon>ModifyNumForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ScannerSettingForm.resx">
+      <DependentUpon>ScannerSettingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScannerSettingFormRes.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ScannerSettingFormRes.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SettingTestletsArgument.resx">
+      <DependentUpon>SettingTestletsArgument.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SettintBlobArguments.resx">
+      <DependentUpon>SettintBlobArguments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TempalteMakerForm.resx">
+      <DependentUpon>TempalteMakerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TempalteMakerFormRes.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>TempalteMakerFormRes.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TemplateSettingForm.resx">
+      <DependentUpon>TemplateSettingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_Setting.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\YXH.Common.Form\YXH.Common.Form.csproj">
+      <Project>{4233bfe4-82b1-47c4-a05c-78ab5d7b571a}</Project>
+      <Name>YXH.Common.Form</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YXH.Common\YXH.Common.csproj">
+      <Project>{10539cbc-bda7-45c5-a1eb-4897b67f0a28}</Project>
+      <Name>YXH.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YXH.HttpHelper\YXH.HttpHelper.csproj">
+      <Project>{f6ba9ddf-7d85-4a81-ab46-18defd708019}</Project>
+      <Name>YXH.HttpHelper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YXH.Model\YXH.Model.csproj">
+      <Project>{7ee45044-7b00-49e2-b681-b152471dbc68}</Project>
+      <Name>YXH.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YXH.ScanBLL\YXH.ScanBLL.csproj">
+      <Project>{a6dd593d-206d-4217-b9d6-be88cf184be4}</Project>
+      <Name>YXH.ScanBLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YXH.Scanner.DALFactory\YXH.Scanner.DALFactory.csproj">
+      <Project>{f21393bd-67aa-4077-a17f-7b4a00b4329e}</Project>
+      <Name>YXH.Scanner.DALFactory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YXH.TempLateBLL\YXH.TemplateBLL.csproj">
+      <Project>{27592fd3-da94-466e-8072-e5fb52f1c386}</Project>
+      <Name>YXH.TemplateBLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\levelling-line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\levelling-text.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CheckBox.Normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CheckBox.Selected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ExportButton.BackImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MagnifyImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NextPageImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OpenFolderImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PreviousPageImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ShrinkImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClockwiseRotationImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ContrarotateImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseButtonImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConfirmButtonImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OKButton.BackImage.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
