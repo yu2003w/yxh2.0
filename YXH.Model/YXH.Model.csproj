@@ -104,7 +104,9 @@
     <Compile Include="Model\ExamGrade.cs" />
     <Compile Include="Model\ExamGroup.cs" />
     <Compile Include="Model\FileVersionInfo.cs" />
+    <Compile Include="Model\QuestType.cs" />
     <Compile Include="Model\Response\ExamGradeResponse.cs" />
+    <Compile Include="Model\Response\QuestionTypeResponse.cs" />
     <Compile Include="Model\StudentItemPaperSave.cs" />
     <Compile Include="Model\Teacher.cs" />
     <Compile Include="Model\TemplateSave.cs" />

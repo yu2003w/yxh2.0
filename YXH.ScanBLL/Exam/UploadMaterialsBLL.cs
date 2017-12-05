@@ -28,6 +28,15 @@ namespace YXH.ScanBLL
         }
 
         /// <summary>
+        /// 获取模板制作时需要的题类型
+        /// </summary>
+        /// <returns></returns>
+        public QuestionTypeResponse GetTemplateQuestionType()
+        {
+            return _dalFactory.Tamplate_Question_Type_Get();
+        }
+
+        /// <summary>
         /// 保存原卷信息到数据库
         /// </summary>
         /// <param name="fileNames">原卷的文件名，多个用‘,’分隔</param>

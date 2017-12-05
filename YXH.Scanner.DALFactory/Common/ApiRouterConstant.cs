@@ -52,6 +52,11 @@
         #region 模板信息
 
         /// <summary>
+        /// 获取试题类型
+        /// </summary>
+        internal const string TEMPLATE_GET_QUESTION_TYPE = "/question/type";
+
+        /// <summary>
         /// 保存模板信息
         /// </summary>
         internal const string TEMPLATE_SAVE = "saveExamTemplate/{0}";

@@ -5,6 +5,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using YXH.Enum;
 using YXH.Model;
+using YXH.ScanBLL;
 
 namespace YXH.TemplateForm
 {
@@ -100,6 +101,11 @@ namespace YXH.TemplateForm
         /// 操作类型
         /// </summary>
         public OperationType type;
+
+        /// <summary>
+        /// 业务处理实例
+        /// </summary>
+        BaseDisposeBLL _bdBLL = new BaseDisposeBLL();
 
         /// <summary>
         /// 构造方法
@@ -240,11 +246,10 @@ namespace YXH.TemplateForm
             cbControl.DropDownStyle = ComboBoxStyle.DropDownList;
 
             List<KeyValue<int, string>> comboxDataSourceList = new List<KeyValue<int, string>>(){
-                new KeyValue<int,string>((int)TopicType.None,"题类型"),
-                new KeyValue<int,string>((int)TopicType.GapFilling,"填空题"),
-                new KeyValue<int,string>((int)TopicType.SubjectiveItem,"主观题")
+                new KeyValue<int,string>((int)TopicType.None,"题类型")
             };
 
+            comboxDataSourceList.AddRange(GetQuestionType());
             cbControl.Items.AddRange(comboxDataSourceList.ToArray());
             cbControl.DisplayMember = "Value";
             cbControl.ValueMember = "Key";
@@ -253,6 +258,26 @@ namespace YXH.TemplateForm
             cbControl.SelectedIndexChanged += item.SelectedIndexChanged;
 
             cbxPan.Controls.Add(cbControl);
+        }
+
+        /// <summary>
+        /// 获取模板使用的题类型
+        /// </summary>
+        /// <returns>返回获取到的键值列表</returns>
+        private List<KeyValue<int, string>> GetQuestionType()
+        {
+            QuestionTypeResponse qtRes = _bdBLL.GetTemplateQuestionType();
+            List<KeyValue<int, string>> result = new List<KeyValue<int, string>>();
+
+            if (qtRes != null && qtRes.Data != null && qtRes.Data.Count > 0)
+            {
+                foreach (QuestType qt in qtRes.Data)
+                {
+                    result.Add(new KeyValue<int, string>(qt.Type, qt.Name));
+                }
+            }
+
+            return result;
         }
 
         /// <summary>
