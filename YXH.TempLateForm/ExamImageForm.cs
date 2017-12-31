@@ -2209,7 +2209,7 @@ namespace YXH.TemplateForm
 
             OmrObjective omrObjective = new OmrObjective();
 
-            omrObjective.topicType = 0;
+            omrObjective.topicType = (int)TopicType.ChoiceQuestion;
             omrObjective.ItemBlobSort = num;
             omrObjective.region = region;
             omrObjective.objectiveItems = list.ToArray();

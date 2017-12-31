@@ -317,7 +317,7 @@ namespace YXH.ScanForm
                                         {
                                             formProgress.SetProgress((schedule += 5), "正在保存模板数据...");
                                         }));
-                                    
+
                                     ApiResponse ar = _bdBLL.SaveTemplateData(tiModel, string.Format("tpl{0}.{1}", ScanGlobalInfo.ExamInfo.CsID, "xml"));
 
                                     if (!ar.Success)
@@ -430,7 +430,7 @@ namespace YXH.ScanForm
                         {
                             if (se.ID == vdr.Data.Userid)
                             {
-                              //  sipisModel.ESID = (int)se.ID;
+                                //  sipisModel.ESID = (int)se.ID;
                                 sipisModel.SCHOOLID = ScanGlobalInfo.loginUser.data.orgid;
                                 sipisModel.GRADEID = ScanGlobalInfo.ExamGrade.GradeId;
                                 sipisModel.SUBJECTID = ScanGlobalInfo.CurrentSubject;
@@ -439,10 +439,11 @@ namespace YXH.ScanForm
                         }
 
                         sipisModel.ESID = vdr.Zkzh;
-                        sipisModel.PaperStatus = 0;
+                        sipisModel.PaperStatus = vdr.ErrorStatusList.Count > 0 ? 2 : 0;
                         sipisModel.StuAPPath = string.Join(",", vdr.Data.ImagePath);
                         sipisModel.BatchNum = vdr.Data.BatchId;
                         sipisModel.HistoryErrorStatusList = vdr.HistoryErrorStatusList;
+                        sipisModel.ErrorStatusList = vdr.ErrorStatusList;
 
                         List<ObjectItem> oiList = new List<ObjectItem>();
 
@@ -512,13 +513,14 @@ namespace YXH.ScanForm
 
                             for (int j = 0; j < bacthUpladeInfoCount; j++)
                             {
-                                if (sipisModelList[i + j].HistoryErrorStatusList == null) {
+                                if (sipisModelList[i + j].HistoryErrorStatusList == null)
+                                {
                                     sipisModelList[i + j].HistoryErrorStatusList = new List<ErrorStatus>();
                                 }
 
                                 sipiList.Add(sipisModelList[i + j]);
 
-                                
+
                             }
 
                             i += bacthUpladeInfoCount;

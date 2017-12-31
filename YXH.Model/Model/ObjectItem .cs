@@ -18,5 +18,10 @@
         /// 选中项字母
         /// </summary>
         public string stuObjectAnswer { get; set; }
+
+        /// <summary>
+        /// 当前题的错误状态
+        /// </summary>
+        public string Status { get; set; }
     }
 }

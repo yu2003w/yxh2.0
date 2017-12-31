@@ -2125,14 +2125,44 @@ namespace YXH.ScanForm
             }
             if (this._incorrectDic != null)
             {
+                int paperExceptionCount = 0,
+                    stuExamNumExceptioinCount = 0;
+
                 foreach (int current in this._incorrectDic.Keys)
                 {
-                    if (this._incorrectDic[current].Count > 0)
+                    foreach (VolumnDataRow vdr in _incorrectDic[current])
                     {
-                        MessageBox.Show("还有待处理的异常卷！");
-
-                        return false;
+                        foreach (ErrorStatus es in vdr.ErrorStatusList)
+                        {
+                            if (es == ErrorStatus.ExamPaperInfoError)
+                            {
+                                paperExceptionCount++;
+                            }
+                            if (es == ErrorStatus.StudentInfoError)
+                            {
+                                stuExamNumExceptioinCount++;
+                            }
+                        }
                     }
+                    //if (this._incorrectDic[current].Count > 0)
+                    //{
+                    //MessageBox.Show("还有待处理的异常卷！");
+
+                    //return false;
+                    //}
+                }
+
+                if (paperExceptionCount > 0)
+                {
+                    MessageBox.Show(string.Format("还有{0}份未处理的试卷异常！", paperExceptionCount));
+
+                    return false;
+                }
+                else if (stuExamNumExceptioinCount > 0)
+                {
+                    MessageBox.Show(string.Format("还有{0}份未处理的考生信息异常！", stuExamNumExceptioinCount));
+
+                    return false;
                 }
             }
             if (this._normalDic != null && this._normalDic.Count > 0)

@@ -38,5 +38,10 @@ namespace YXH.Model
         /// 试卷已处理的错误
         /// </summary>
         public List<ErrorStatus> HistoryErrorStatusList { get; set; }
+
+        /// <summary>
+        /// 试卷的当前错误状态
+        /// </summary>
+        public List<ErrorStatus> ErrorStatusList { get; set; }
     }
 }
