@@ -321,7 +321,7 @@ namespace YXH.TemplateForm
         /// <summary>
         /// 当前选中的题类型
         /// </summary>
-        private int _curTopicType;
+        private TopicType _curTopicType;
         /// <summary>
         /// 当前开始题号
         /// </summary>
@@ -2521,13 +2521,13 @@ namespace YXH.TemplateForm
 
                 return;
             }
-            // if (_curTopicType == TopicType.GapFilling && _startQid > _endQid)
-            if (_startQid > _endQid)
-            {
-                MessageBox.Show("结束题号不能小于开始题号", "提示");
+            if (_curTopicType == TopicType.GapFilling && _startQid > _endQid)
+                if (_startQid > _endQid)
+                {
+                    MessageBox.Show("结束题号不能小于开始题号", "提示");
 
-                return;
-            }
+                    return;
+                }
             if (_templateInfo.pages != null)
             {
                 int gapFillingMsgCount = 0;
@@ -2593,7 +2593,7 @@ namespace YXH.TemplateForm
                 }
             }
 
-            _temSubjectiveList[_temSubjectiveList.Count - 1].TopicType = _curTopicType;
+            _temSubjectiveList[_temSubjectiveList.Count - 1].TopicType = (int)_curTopicType;
             _temSubjectiveList[_temSubjectiveList.Count - 1].StartQid = _startQid;
             _temSubjectiveList[_temSubjectiveList.Count - 1].EndQid = _endQid;
 
@@ -2704,7 +2704,7 @@ namespace YXH.TemplateForm
 
             KeyValue<int, string> kv = cb.Items[cb.SelectedIndex] as KeyValue<int, string>;
 
-            _curTopicType = (int)kv.Key;
+            _curTopicType = (TopicType)((int)kv.Key);
 
             _activeRect.context.Hide();
 
@@ -2771,9 +2771,8 @@ namespace YXH.TemplateForm
             {
                 OmrSubjective os = (modifyObject as OmrSubjective);
 
-                _curTopicType = os.TopicType;
-                //    index = (_curTopicType == TopicType.GapFilling) ? 1 : 2;
-                index = _curTopicType;
+                _curTopicType = ((TopicType)os.TopicType);
+                index = (_curTopicType == TopicType.GapFilling) ? 1 : 2;
                 startQid = os.StartQid.ToString();
                 endQid = os.EndQid.ToString();
             }
@@ -2790,7 +2789,7 @@ namespace YXH.TemplateForm
                 }
             });
 
-            if (_curTopicType == 3)
+            if (_curTopicType == TopicType.GapFilling)
             {
                 subjectiveOmrContext.AddTOperation(new OperationContext.Operation[]
                 {
@@ -2814,7 +2813,7 @@ namespace YXH.TemplateForm
                     }
                 });
             }
-            else if (_curTopicType == 4)
+            else if (_curTopicType == TopicType.SubjectiveItem)
             {
                 subjectiveOmrContext.AddTOperation(new OperationContext.Operation[]
                 {

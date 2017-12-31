@@ -65,30 +65,5 @@ namespace YXH.Scanner.DALFactory
 
             return ar;
         }
-
-        /// <summary>
-        /// 获取模板试题类型
-        /// </summary>
-        /// <returns>结果列表</returns>
-        public QuestionTypeResponse Tamplate_Question_Type_Get()
-        {
-            HttpWebResponse hwr;
-
-            try
-            {
-                hwr = HttpWebResponseUtility.CreateGetHttpResponse(ApiRouterConstant.TEMPLATE_GET_QUESTION_TYPE
-                   , 30000, string.Empty, null);
-            }
-            catch (WebException ex)
-            {
-                hwr = (ex.Response as HttpWebResponse);
-            }
-
-            QuestionTypeResponse qtrAr = JsonConvert.DeserializeObject<QuestionTypeResponse>(HttpWebResponseUtility.GetHttpResponsStr(hwr));
-
-            System_SaveResponseErrorLog(qtrAr.Error, "获取模板试题类型列表");
-
-            return qtrAr;
-        }
     }
 }

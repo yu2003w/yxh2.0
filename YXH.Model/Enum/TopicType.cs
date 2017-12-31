@@ -6,24 +6,24 @@
     public enum TopicType
     {
         /// <summary>
-        /// 未设置
+        /// 未设置 0
         /// </summary>
-        None,
-        ///// <summary>
-        ///// 客观题
-        ///// </summary>
-        //ChoiceQuestion,
-        ///// <summary>
-        ///// 填空题
-        ///// </summary>
-        //GapFilling,
-        ///// <summary>
-        ///// 主观题
-        ///// </summary>
-        //SubjectiveItem,
-        ///// <summary>
-        ///// 隐藏区域
-        ///// </summary>
-        //HideArea
+        None = 0,
+        /// <summary>
+        /// 客观题 1
+        /// </summary>
+        ChoiceQuestion = 1,
+        /// <summary>
+        /// 填空题 2
+        /// </summary>
+        GapFilling = 2,
+        /// <summary>
+        /// 主观题 3
+        /// </summary>
+        SubjectiveItem = 3,
+        /// <summary>
+        /// 隐藏区域 4
+        /// </summary>
+        HideArea = 4
     }
 }
