@@ -302,6 +302,7 @@
     <Content Include="Resources\Application.Logo32.ico" />
     <Content Include="Resources\Application.Logo48.ico" />
     <Content Include="Resources\Application.Logo64.ico" />
+    <Content Include="Resources\yxh128x128.ico" />
     <Content Include="yxh128x128.ico" />
     <None Include="Resources\Menu_Hover.png" />
     <None Include="Resources\Menu_Normal.png" />

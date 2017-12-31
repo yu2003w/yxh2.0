@@ -1,6 +1,6 @@
 <PublishVersionInfo>
 	<Version>1.25.0</Version>
-	<PublishVersionPath>http://59.110.60.11/moguyun.api/UpdateInfo/ScanClient/MoguYunSetup1.25.0.msi</PublishVersionPath>
+	<PublishVersionPath></PublishVersionPath>
 	<IsForceUpdate>true</IsForceUpdate>
   <SetupFileName>MoguYunSetup1.25.0.msi</SetupFileName>
 </PublishVersionInfo>
