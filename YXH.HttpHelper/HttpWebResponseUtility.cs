@@ -142,13 +142,27 @@ namespace YXH.HttpHelper
         /// </summary>
         private static void CheckBaseUrl(string url)
         {
-            if (ExistsAppSettingKey("BaseUrl"))
+            if (ExistsAppSettingKey("IsTestApp"))
             {
-                _apiAddress = GetSetting("BaseUrl") + url;
+                if (ExistsAppSettingKey("TestBaseUrl"))
+                {
+                    _apiAddress = GetSetting("TestBaseUrl");
+                }
+                else
+                {
+                    throw new ArgumentNullException("未设置服务器地址");
+                }
             }
             else
             {
-                throw new ArgumentNullException("未设置服务器地址");
+                if (ExistsAppSettingKey("BaseUrl"))
+                {
+                    _apiAddress = GetSetting("BaseUrl") + url;
+                }
+                else
+                {
+                    throw new ArgumentNullException("未设置服务器地址");
+                }
             }
         }
 

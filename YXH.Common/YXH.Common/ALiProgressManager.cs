@@ -21,7 +21,7 @@ namespace YXH.Common
         /// <returns>客户端实例</returns>
         public static OssClient InitClient(out string bucketName)
         {
-            string endPoint = "oss-cn-hangzhou.aliyuncs.com",
+            string endPoint = string.Empty,
                 isTestSetting = ConfigurationHelper.GetSetting("IsTestApp"),
                 accessKeyId = string.Empty,
                 accessKeySecret = string.Empty;
@@ -31,6 +31,7 @@ namespace YXH.Common
             if (string.IsNullOrEmpty(isTestSetting) || Convert.ToBoolean(isTestSetting))
             {
                 //测试环境
+                endPoint = "oss-cn-hangzhou.aliyuncs.com";
                 accessKeyId = "LTAIRf0qaQSS6Y2x";
                 accessKeySecret = "IaPIEYKXxtZ5k6XynMPhFPfLoqnXAn";
                 bucketName = "ustudypaper";
@@ -38,9 +39,10 @@ namespace YXH.Common
             else if (!Convert.ToBoolean(isTestSetting))
             {
                 //正式环境
-                accessKeyId = "";
-                accessKeySecret = "";
-                bucketName = "";
+                endPoint = "oss-cn-beijing.aliyuncs.com";
+                accessKeyId = "LTAIIyWV2k5MfhvR";
+                accessKeySecret = "GdRSce29XMmRND29a5RwKu8uFZMhBp";
+                bucketName = "ustudy";
             }
 
             return new OssClient(endPoint, accessKeyId, accessKeySecret);

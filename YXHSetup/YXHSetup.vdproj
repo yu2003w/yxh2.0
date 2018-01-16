@@ -15,43 +15,31 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_03B5378912414413B49713988C2530FA"
+        "MsmKey" = "8:_0133A72F53DA44C784DBB881BD885220"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_0444628FECA745CAB51682B454135D66"
+        "MsmKey" = "8:_061001DF1D3048259B3C1DD600A0D129"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_0602D47E7F7D49DC92CF266BEF8206DE"
+        "MsmKey" = "8:_09C5394040B6480BA6936D43A0261F23"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_0689AB4B6F28478BA5FC643B53589245"
+        "MsmKey" = "8:_0C83209F65684F179B6F9D339069785C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_085696C1CA724550A3AD0E0E991D216D"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_0B102C2504764B14BE7DF1A4F5106AFF"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_0C059480B95F4CAE9CC3C7C170D2CDEC"
+        "MsmKey" = "8:_0E5CAA45CD0047E4B67D74EF24169F74"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -64,7 +52,7 @@
         "Entry"
         {
         "MsmKey" = "8:_1051DA8EB81A9A14E00A8BE8C67EF7F5"
-        "OwnerKey" = "8:_93F1C1DA45C3404ABE444A5018832B5F"
+        "OwnerKey" = "8:_33EBDA0CDD734FC69F6D3586148CCDE8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -75,49 +63,37 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_1106C4108553422187D6BCAE22F9ED38"
+        "MsmKey" = "8:_10F0011D9A4E438ABC70AD20AC857039"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_15BF3BED2BD84903AA53FC5AFBF9A424"
+        "MsmKey" = "8:_177244C1C7424711AD3730DB2F99FCD7"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_16323F911EBC4C39940811A6003C51B6"
+        "MsmKey" = "8:_1C0D9706E799445B987FAC30E3369145"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_1AA44740974C45859FCCB269788FE8D6"
+        "MsmKey" = "8:_1DD00D42AA3447AEB761383D44A3044C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_1BBE8165F83D48CA8D46DD56689590FC"
+        "MsmKey" = "8:_29B8DE97304F43E09CB602C1E5BAF119"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_1D79166943C74179B1BCF1948F771EF9"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_25165911C5E04DE1B1947AC0B60D0990"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_25665602CDEE430F9158CBF6B1A3D356"
+        "MsmKey" = "8:_2B6C7E50DAD3436E88FC71D7EB54E224"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -130,7 +106,7 @@
         "Entry"
         {
         "MsmKey" = "8:_2C4D91C70372016ABFBFAF986A28D6B0"
-        "OwnerKey" = "8:_93F1C1DA45C3404ABE444A5018832B5F"
+        "OwnerKey" = "8:_33EBDA0CDD734FC69F6D3586148CCDE8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -165,13 +141,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_31C2EA74A2EF45AF8552D84D4050E602"
+        "MsmKey" = "8:_33EBDA0CDD734FC69F6D3586148CCDE8"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_3401267B37A8497890E8E5EA5D3D9F57"
+        "MsmKey" = "8:_34ACF99B532D440C963371B8A1D60816"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -184,18 +160,12 @@
         "Entry"
         {
         "MsmKey" = "8:_38ECCE2EAD2EF3EF6BB2A43E3F45D80B"
-        "OwnerKey" = "8:_DFED9BB988B147DA8E0B002DADFB4A65"
+        "OwnerKey" = "8:_699D8B62905A4E55BED8A6F0F9EB07ED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_39A1EE7F69754BC0A36EDDF1B1E95AAC"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_39AE55DCB8764046BBC0FDD26706EA4A"
+        "MsmKey" = "8:_3B318ADA90374943876174EB8CA55599"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -208,13 +178,7 @@
         "Entry"
         {
         "MsmKey" = "8:_3D9FCC2C5496D9DE1029F5BB9A5C9491"
-        "OwnerKey" = "8:_DFED9BB988B147DA8E0B002DADFB4A65"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_3F50C6C165DD4E87B5D826BCDA7A7E62"
-        "OwnerKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_699D8B62905A4E55BED8A6F0F9EB07ED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -226,18 +190,24 @@
         "Entry"
         {
         "MsmKey" = "8:_3F6AFE68A6F4F5DFD2958B442FEDC149"
-        "OwnerKey" = "8:_3F50C6C165DD4E87B5D826BCDA7A7E62"
+        "OwnerKey" = "8:_F14E4F67DB064221B27328F65465677A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_4380489043CE4360B17EAEFE992F7DBA"
+        "MsmKey" = "8:_4354E321F2954778BFBB90AF6FB2D0DF"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_48E15995BFF94732ACA21CEF1BACE277"
+        "MsmKey" = "8:_4381E1B3284F42D9B848EF73CA0A4E63"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4674DF3736034F42B5A4FD82FE100962"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -249,74 +219,86 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_5F2E314CF69A4E2C966C0A76E5C6B0E4"
+        "MsmKey" = "8:_513D5C11294C47AA8A77EA282102273D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_641C5943D7624DDE81827D16F59904BF"
+        "MsmKey" = "8:_5EB97810CB8D4D1B8CFECCE472C8A7B0"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_685BAF51EDF741A998B5323DD40F0B5B"
+        "MsmKey" = "8:_62FD92F1C0584651B6FAD198D701CE2E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_66E1A59BB2474EF8979A9D82375E1E5B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_699D8B62905A4E55BED8A6F0F9EB07ED"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_69AB95C1DCC28A7A4B8557A14DAD76AA"
-        "OwnerKey" = "8:_0689AB4B6F28478BA5FC643B53589245"
+        "OwnerKey" = "8:_C85FA1B729034153AD79A83969693189"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_69AB95C1DCC28A7A4B8557A14DAD76AA"
-        "OwnerKey" = "8:_3F50C6C165DD4E87B5D826BCDA7A7E62"
+        "OwnerKey" = "8:_F14E4F67DB064221B27328F65465677A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_69AB95C1DCC28A7A4B8557A14DAD76AA"
-        "OwnerKey" = "8:_6CCD657D737A49A78602FF6F594ABAF3"
+        "OwnerKey" = "8:_4354E321F2954778BFBB90AF6FB2D0DF"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_69AB95C1DCC28A7A4B8557A14DAD76AA"
-        "OwnerKey" = "8:_B2B69EE98CEE41F693A6384A5B61D86F"
+        "OwnerKey" = "8:_B83BB9BA14BC42BF83AE3A370D6EED22"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_69AB95C1DCC28A7A4B8557A14DAD76AA"
-        "OwnerKey" = "8:_93F1C1DA45C3404ABE444A5018832B5F"
+        "OwnerKey" = "8:_33EBDA0CDD734FC69F6D3586148CCDE8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_69AB95C1DCC28A7A4B8557A14DAD76AA"
-        "OwnerKey" = "8:_FDBE08758C044C99A94DFFA4BF714495"
+        "OwnerKey" = "8:_1C0D9706E799445B987FAC30E3369145"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_69AB95C1DCC28A7A4B8557A14DAD76AA"
-        "OwnerKey" = "8:_DEA662699BA7423D81CD95F2190B46F1"
+        "OwnerKey" = "8:_F3CDDFC6FFCD42D9941EA9C0408C8B19"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_69AB95C1DCC28A7A4B8557A14DAD76AA"
-        "OwnerKey" = "8:_8BAE561644E24555A97A533B16051F91"
+        "OwnerKey" = "8:_34ACF99B532D440C963371B8A1D60816"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_69AB95C1DCC28A7A4B8557A14DAD76AA"
-        "OwnerKey" = "8:_085696C1CA724550A3AD0E0E991D216D"
+        "OwnerKey" = "8:_8C37A5E08A3A4F31B3EF6AC7686F8862"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -363,37 +345,25 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_6CCD657D737A49A78602FF6F594ABAF3"
+        "MsmKey" = "8:_6E22DA7C4C2A483193683EBE0FBAC968"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_6D8D3448414646C49168DB59888F1F73"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_70938310033B43F5993ECC0764342BF3"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_741F4DEAB0C74A78BE4C5C445F6BAE2E"
+        "MsmKey" = "8:_736389F01C2E43AB91228FC23BF14202"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_7543F942B6D2764960ACB8A4CA9776BA"
-        "OwnerKey" = "8:_0689AB4B6F28478BA5FC643B53589245"
+        "OwnerKey" = "8:_C85FA1B729034153AD79A83969693189"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_76F84909E7F844ADA8E0154772E8A68B"
+        "MsmKey" = "8:_78905E7E7C024CDC9006C02FADA2BF2A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -411,38 +381,32 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_7CC472D9DB2D4531ADDA591F67EBC967"
+        "MsmKey" = "8:_7CC3A4517ABC4C5CAB2AB043C0D15227"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_7DDB4305BB89477680784EB29F74AC8E"
+        "MsmKey" = "8:_7FEC297DB70D4E319EAD77FFE5064E32"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_827FD06B13C3414FB9A88F2C160F8C5A"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_88E3333BE1514DC2B1C8A209D7A40152"
+        "MsmKey" = "8:_88F528D0E5454C3E8B5679BD7B4C2460"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_897F8F02B18C825CCD2BC49F9FA132FA"
-        "OwnerKey" = "8:_0689AB4B6F28478BA5FC643B53589245"
+        "OwnerKey" = "8:_C85FA1B729034153AD79A83969693189"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_897F8F02B18C825CCD2BC49F9FA132FA"
-        "OwnerKey" = "8:_DFED9BB988B147DA8E0B002DADFB4A65"
+        "OwnerKey" = "8:_699D8B62905A4E55BED8A6F0F9EB07ED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -453,25 +417,19 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_8BAE561644E24555A97A533B16051F91"
+        "MsmKey" = "8:_8C37A5E08A3A4F31B3EF6AC7686F8862"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_906042C299214C4B8289CDF34806BD41"
+        "MsmKey" = "8:_93C5201CF91F43A3A315CFA59E500C9F"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_93F1C1DA45C3404ABE444A5018832B5F"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_93F393CCA61D4B9B951F034E39804458"
+        "MsmKey" = "8:_948BA8E80F6740EE840145C026B5E346"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -484,7 +442,13 @@
         "Entry"
         {
         "MsmKey" = "8:_9491839DA4EC33A8A1BC2DD778B23BF2"
-        "OwnerKey" = "8:_DFED9BB988B147DA8E0B002DADFB4A65"
+        "OwnerKey" = "8:_699D8B62905A4E55BED8A6F0F9EB07ED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9568B29AC4494C1097D18B465A36C3B7"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -495,7 +459,19 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_A09625D563CC4080AAE68D76F08C87A8"
+        "MsmKey" = "8:_9C9D020ADF774CFCAF97281F66B392BE"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9ED724F720B9412EBD8568249A9BF9EC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A1FE554D272745029E9F98446953C4E2"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -508,7 +484,7 @@
         "Entry"
         {
         "MsmKey" = "8:_A4E1B7AF799E6DE5B00896F742C9676D"
-        "OwnerKey" = "8:_93F1C1DA45C3404ABE444A5018832B5F"
+        "OwnerKey" = "8:_33EBDA0CDD734FC69F6D3586148CCDE8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -549,6 +525,18 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_A516FE70B5614822ACB13CE1D5A986F8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A5586881BE834B2EA2A4077CD2D30D58"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_A7EEE38F21F6028FD00360864738ADEE"
         "OwnerKey" = "8:_ED244F8DDEC1467BC638D3EC910D1F2A"
         "MsmSig" = "8:_UNDEFINED"
@@ -556,7 +544,19 @@
         "Entry"
         {
         "MsmKey" = "8:_A7EEE38F21F6028FD00360864738ADEE"
-        "OwnerKey" = "8:_93F1C1DA45C3404ABE444A5018832B5F"
+        "OwnerKey" = "8:_33EBDA0CDD734FC69F6D3586148CCDE8"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A95BDF4B216D4CC68BFA8AA1C0B91652"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_ABD23C638B6B4C2EA6E2AB0134D23092"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -568,7 +568,7 @@
         "Entry"
         {
         "MsmKey" = "8:_AC6AD03D38FDA5B3CE8FA1369DE2EC03"
-        "OwnerKey" = "8:_FDBE08758C044C99A94DFFA4BF714495"
+        "OwnerKey" = "8:_1C0D9706E799445B987FAC30E3369145"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -579,13 +579,19 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_B2B69EE98CEE41F693A6384A5B61D86F"
+        "MsmKey" = "8:_B83BB9BA14BC42BF83AE3A370D6EED22"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_BA5515C4BDAC4353ADEB1B8232ACBFD9"
+        "MsmKey" = "8:_BECBB8F2340047438BC0607CFD97ADE7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C1781300DCE34631A894BECBAB858D00"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -598,37 +604,37 @@
         "Entry"
         {
         "MsmKey" = "8:_C1BDAA255AA43DDCD53877D7032168B9"
-        "OwnerKey" = "8:_3F50C6C165DD4E87B5D826BCDA7A7E62"
+        "OwnerKey" = "8:_F14E4F67DB064221B27328F65465677A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_C1BDAA255AA43DDCD53877D7032168B9"
-        "OwnerKey" = "8:_6CCD657D737A49A78602FF6F594ABAF3"
+        "OwnerKey" = "8:_4354E321F2954778BFBB90AF6FB2D0DF"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_C1BDAA255AA43DDCD53877D7032168B9"
-        "OwnerKey" = "8:_B2B69EE98CEE41F693A6384A5B61D86F"
+        "OwnerKey" = "8:_B83BB9BA14BC42BF83AE3A370D6EED22"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_C1BDAA255AA43DDCD53877D7032168B9"
-        "OwnerKey" = "8:_93F1C1DA45C3404ABE444A5018832B5F"
+        "OwnerKey" = "8:_33EBDA0CDD734FC69F6D3586148CCDE8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_C1BDAA255AA43DDCD53877D7032168B9"
-        "OwnerKey" = "8:_FDBE08758C044C99A94DFFA4BF714495"
+        "OwnerKey" = "8:_1C0D9706E799445B987FAC30E3369145"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_C1BDAA255AA43DDCD53877D7032168B9"
-        "OwnerKey" = "8:_DFED9BB988B147DA8E0B002DADFB4A65"
+        "OwnerKey" = "8:_699D8B62905A4E55BED8A6F0F9EB07ED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -664,7 +670,7 @@
         "Entry"
         {
         "MsmKey" = "8:_C1BDAA255AA43DDCD53877D7032168B9"
-        "OwnerKey" = "8:_0689AB4B6F28478BA5FC643B53589245"
+        "OwnerKey" = "8:_C85FA1B729034153AD79A83969693189"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -676,7 +682,7 @@
         "Entry"
         {
         "MsmKey" = "8:_C48A160FA2286EBC0C2FE05BEAE71BC7"
-        "OwnerKey" = "8:_93F1C1DA45C3404ABE444A5018832B5F"
+        "OwnerKey" = "8:_33EBDA0CDD734FC69F6D3586148CCDE8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -694,31 +700,37 @@
         "Entry"
         {
         "MsmKey" = "8:_C48DC6B7554B30AC4BBF6FA3C7BB6A03"
-        "OwnerKey" = "8:_FDBE08758C044C99A94DFFA4BF714495"
+        "OwnerKey" = "8:_1C0D9706E799445B987FAC30E3369145"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_C5847C556CB749309FA44FB1F1500399"
+        "MsmKey" = "8:_C4A5DE6FA8B6438E8F52A720F3F67473"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C4EE841D246E4421B1AF70E0A2DF4920"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_C77D7D2EB404D14948895103882561C4"
-        "OwnerKey" = "8:_0689AB4B6F28478BA5FC643B53589245"
+        "OwnerKey" = "8:_C85FA1B729034153AD79A83969693189"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_C77D7D2EB404D14948895103882561C4"
-        "OwnerKey" = "8:_3F50C6C165DD4E87B5D826BCDA7A7E62"
+        "OwnerKey" = "8:_F14E4F67DB064221B27328F65465677A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_C77D7D2EB404D14948895103882561C4"
-        "OwnerKey" = "8:_93F1C1DA45C3404ABE444A5018832B5F"
+        "OwnerKey" = "8:_33EBDA0CDD734FC69F6D3586148CCDE8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -735,38 +747,38 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_D3F10B95CEA449E5A5EA650A3626A461"
+        "MsmKey" = "8:_C85FA1B729034153AD79A83969693189"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C9B73562589A4E57B8B56D3F5C2E76C9"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_D6E525347566D77A81AA815B6EAB3455"
-        "OwnerKey" = "8:_F16D8D739E61482F94A654BAC736F790"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_D7633210D7CF4C5B974FA428F8A07DEC"
-        "OwnerKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_9C9D020ADF774CFCAF97281F66B392BE"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_D81D6F956170138AB9452E59355B4D63"
-        "OwnerKey" = "8:_0689AB4B6F28478BA5FC643B53589245"
+        "OwnerKey" = "8:_C85FA1B729034153AD79A83969693189"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_D81D6F956170138AB9452E59355B4D63"
-        "OwnerKey" = "8:_3F50C6C165DD4E87B5D826BCDA7A7E62"
+        "OwnerKey" = "8:_F14E4F67DB064221B27328F65465677A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_D81D6F956170138AB9452E59355B4D63"
-        "OwnerKey" = "8:_93F1C1DA45C3404ABE444A5018832B5F"
+        "OwnerKey" = "8:_33EBDA0CDD734FC69F6D3586148CCDE8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -790,13 +802,7 @@
         "Entry"
         {
         "MsmKey" = "8:_D95E325D225D1A590BB20368DFBF2870"
-        "OwnerKey" = "8:_DFED9BB988B147DA8E0B002DADFB4A65"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_DA40596AE4A44B53895282EDC6FB6144"
-        "OwnerKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_699D8B62905A4E55BED8A6F0F9EB07ED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -808,7 +814,7 @@
         "Entry"
         {
         "MsmKey" = "8:_DA54E49B2844E9253365BA554E52727B"
-        "OwnerKey" = "8:_93F1C1DA45C3404ABE444A5018832B5F"
+        "OwnerKey" = "8:_33EBDA0CDD734FC69F6D3586148CCDE8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -879,50 +885,32 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_DB19F7ACA1CC4C698C8A9985ADAE79F9"
+        "MsmKey" = "8:_E48E768764D94E949131B97EF66D6CA1"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_DEA662699BA7423D81CD95F2190B46F1"
+        "MsmKey" = "8:_E605AA8201864CD4BB44F6D132BE3212"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_DFED9BB988B147DA8E0B002DADFB4A65"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E05FC3BCC731465E9F46578A75B2A283"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E477B3C4930147939311837ECBC7015B"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E602995977324963850546685F5B1B84"
+        "MsmKey" = "8:_E6BAA694AF4948A3BFE1E401EFE2CD88"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_E734CDEC55178762A1FEB895F7C5E15C"
-        "OwnerKey" = "8:_0689AB4B6F28478BA5FC643B53589245"
+        "OwnerKey" = "8:_C85FA1B729034153AD79A83969693189"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_E734CDEC55178762A1FEB895F7C5E15C"
-        "OwnerKey" = "8:_B2B69EE98CEE41F693A6384A5B61D86F"
+        "OwnerKey" = "8:_B83BB9BA14BC42BF83AE3A370D6EED22"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -940,13 +928,13 @@
         "Entry"
         {
         "MsmKey" = "8:_E762E8583BF9349C8DDEEB1202901B12"
-        "OwnerKey" = "8:_B2B69EE98CEE41F693A6384A5B61D86F"
+        "OwnerKey" = "8:_B83BB9BA14BC42BF83AE3A370D6EED22"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_E762E8583BF9349C8DDEEB1202901B12"
-        "OwnerKey" = "8:_DFED9BB988B147DA8E0B002DADFB4A65"
+        "OwnerKey" = "8:_699D8B62905A4E55BED8A6F0F9EB07ED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -963,7 +951,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_E94F3D4C800E4BB4A6C54947994E0897"
+        "MsmKey" = "8:_E9828A64E98F44499BBF5447A3CC8383"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -1017,7 +1005,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_EAADE223BEC443DAB706CA1471118BCE"
+        "MsmKey" = "8:_EA9D421659EC48F5A86205FCF87B74CB"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -1036,13 +1024,13 @@
         "Entry"
         {
         "MsmKey" = "8:_EC71BF0974A61CFD9B9BB14E7ABBB78A"
-        "OwnerKey" = "8:_93F1C1DA45C3404ABE444A5018832B5F"
+        "OwnerKey" = "8:_33EBDA0CDD734FC69F6D3586148CCDE8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_ED244F8DDEC1467BC638D3EC910D1F2A"
-        "OwnerKey" = "8:_0689AB4B6F28478BA5FC643B53589245"
+        "OwnerKey" = "8:_C85FA1B729034153AD79A83969693189"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -1054,12 +1042,30 @@
         "Entry"
         {
         "MsmKey" = "8:_EDC72EE09754E704D9BE34AB35F3EC48"
-        "OwnerKey" = "8:_DFED9BB988B147DA8E0B002DADFB4A65"
+        "OwnerKey" = "8:_699D8B62905A4E55BED8A6F0F9EB07ED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_F16D8D739E61482F94A654BAC736F790"
+        "MsmKey" = "8:_EF9D33D908ED448584B8D772D0E41952"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F14E4F67DB064221B27328F65465677A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F3CDDFC6FFCD42D9941EA9C0408C8B19"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F5A3DB1ED1654221AEF5C0FE7FDB8C16"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -1072,7 +1078,7 @@
         "Entry"
         {
         "MsmKey" = "8:_F7689F2760EB2E22A2858373DACA5C9F"
-        "OwnerKey" = "8:_DFED9BB988B147DA8E0B002DADFB4A65"
+        "OwnerKey" = "8:_699D8B62905A4E55BED8A6F0F9EB07ED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -1083,98 +1089,92 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_FAEFA2350FFC4203BEEFD75AAB462547"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_FBCAAFC4127F4AF5A8AEA385CF345108"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_FDBE08758C044C99A94DFFA4BF714495"
+        "MsmKey" = "8:_FF487EA1FF2E41289DF7878B8CA883AF"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_25165911C5E04DE1B1947AC0B60D0990"
+        "OwnerKey" = "8:_C4A5DE6FA8B6438E8F52A720F3F67473"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_1AA44740974C45859FCCB269788FE8D6"
+        "OwnerKey" = "8:_6E22DA7C4C2A483193683EBE0FBAC968"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_3F50C6C165DD4E87B5D826BCDA7A7E62"
+        "OwnerKey" = "8:_F14E4F67DB064221B27328F65465677A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_6CCD657D737A49A78602FF6F594ABAF3"
+        "OwnerKey" = "8:_4354E321F2954778BFBB90AF6FB2D0DF"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_B2B69EE98CEE41F693A6384A5B61D86F"
+        "OwnerKey" = "8:_B83BB9BA14BC42BF83AE3A370D6EED22"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_93F1C1DA45C3404ABE444A5018832B5F"
+        "OwnerKey" = "8:_33EBDA0CDD734FC69F6D3586148CCDE8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_FDBE08758C044C99A94DFFA4BF714495"
+        "OwnerKey" = "8:_1C0D9706E799445B987FAC30E3369145"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_0B102C2504764B14BE7DF1A4F5106AFF"
+        "OwnerKey" = "8:_A1FE554D272745029E9F98446953C4E2"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_DEA662699BA7423D81CD95F2190B46F1"
+        "OwnerKey" = "8:_F3CDDFC6FFCD42D9941EA9C0408C8B19"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_8BAE561644E24555A97A533B16051F91"
+        "OwnerKey" = "8:_34ACF99B532D440C963371B8A1D60816"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_DFED9BB988B147DA8E0B002DADFB4A65"
+        "OwnerKey" = "8:_699D8B62905A4E55BED8A6F0F9EB07ED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_085696C1CA724550A3AD0E0E991D216D"
+        "OwnerKey" = "8:_8C37A5E08A3A4F31B3EF6AC7686F8862"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_F16D8D739E61482F94A654BAC736F790"
+        "OwnerKey" = "8:_9C9D020ADF774CFCAF97281F66B392BE"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -1186,7 +1186,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_0689AB4B6F28478BA5FC643B53589245"
+        "OwnerKey" = "8:_C85FA1B729034153AD79A83969693189"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -1378,49 +1378,49 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_D7633210D7CF4C5B974FA428F8A07DEC"
+        "OwnerKey" = "8:_2B6C7E50DAD3436E88FC71D7EB54E224"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_7DDB4305BB89477680784EB29F74AC8E"
+        "OwnerKey" = "8:_A5586881BE834B2EA2A4077CD2D30D58"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_0444628FECA745CAB51682B454135D66"
+        "OwnerKey" = "8:_1DD00D42AA3447AEB761383D44A3044C"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_4380489043CE4360B17EAEFE992F7DBA"
+        "OwnerKey" = "8:_A516FE70B5614822ACB13CE1D5A986F8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_C5847C556CB749309FA44FB1F1500399"
+        "OwnerKey" = "8:_7CC3A4517ABC4C5CAB2AB043C0D15227"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_0602D47E7F7D49DC92CF266BEF8206DE"
+        "OwnerKey" = "8:_736389F01C2E43AB91228FC23BF14202"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_827FD06B13C3414FB9A88F2C160F8C5A"
+        "OwnerKey" = "8:_177244C1C7424711AD3730DB2F99FCD7"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_39AE55DCB8764046BBC0FDD26706EA4A"
+        "OwnerKey" = "8:_EF9D33D908ED448584B8D772D0E41952"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -1523,10 +1523,10 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_03B5378912414413B49713988C2530FA"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0133A72F53DA44C784DBB881BD885220"
             {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\cvblob.dll"
-            "TargetName" = "8:cvblob.dll"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\ChnCharInfo.xml"
+            "TargetName" = "8:ChnCharInfo.xml"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -1543,21 +1543,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0444628FECA745CAB51682B454135D66"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_061001DF1D3048259B3C1DD600A0D129"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:MsgPack, Version=0.1.5750.29748, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_0444628FECA745CAB51682B454135D66"
-                    {
-                    "Name" = "8:MsgPack.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\MsgPack.dll"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YouXueHui.vshost.exe.config"
+            "TargetName" = "8:YouXueHui.vshost.exe.config"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -1574,21 +1563,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0602D47E7F7D49DC92CF266BEF8206DE"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_09C5394040B6480BA6936D43A0261F23"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:ChnCharInfo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=18f031bd02e5e291, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_0602D47E7F7D49DC92CF266BEF8206DE"
-                    {
-                    "Name" = "8:ChnCharInfo.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\ChnCharInfo.dll"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.TemplateBLL.pdb"
+            "TargetName" = "8:YXH.TemplateBLL.pdb"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -1605,21 +1583,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0689AB4B6F28478BA5FC643B53589245"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0C83209F65684F179B6F9D339069785C"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YouXueHui, Version=0.4.0.1, Culture=neutral, processorArchitecture=x86"
-                "ScatterAssemblies"
-                {
-                    "_0689AB4B6F28478BA5FC643B53589245"
-                    {
-                    "Name" = "8:YouXueHui.exe"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YouXueHui.exe"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.ScanForm.pdb"
+            "TargetName" = "8:YXH.ScanForm.pdb"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -1636,72 +1603,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_085696C1CA724550A3AD0E0E991D216D"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0E5CAA45CD0047E4B67D74EF24169F74"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.AutoUpdate, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86"
-                "ScatterAssemblies"
-                {
-                    "_085696C1CA724550A3AD0E0E991D216D"
-                    {
-                    "Name" = "8:YXH.AutoUpdate.exe"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.AutoUpdate.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0B102C2504764B14BE7DF1A4F5106AFF"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.Model, Version=1.1.1.0, Culture=neutral, processorArchitecture=x86"
-                "ScatterAssemblies"
-                {
-                    "_0B102C2504764B14BE7DF1A4F5106AFF"
-                    {
-                    "Name" = "8:YXH.Model.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.Model.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0C059480B95F4CAE9CC3C7C170D2CDEC"
-            {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\msvcp120.dll"
-            "TargetName" = "8:msvcp120.dll"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.AutoUpdate.pdb"
+            "TargetName" = "8:YXH.AutoUpdate.pdb"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -1749,10 +1654,10 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1106C4108553422187D6BCAE22F9ED38"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_10F0011D9A4E438ABC70AD20AC857039"
             {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\opencv_core249.dll"
-            "TargetName" = "8:opencv_core249.dll"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\opencv_ml249.dll"
+            "TargetName" = "8:opencv_ml249.dll"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -1769,60 +1674,20 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_15BF3BED2BD84903AA53FC5AFBF9A424"
-            {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.TemplateForm.pdb"
-            "TargetName" = "8:YXH.TemplateForm.pdb"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_16323F911EBC4C39940811A6003C51B6"
-            {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\log4net.xml"
-            "TargetName" = "8:log4net.xml"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_1AA44740974C45859FCCB269788FE8D6"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_177244C1C7424711AD3730DB2F99FCD7"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:zxing, Version=0.14.0.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:Aspose.Cells, Version=7.7.2.0, Culture=neutral, PublicKeyToken=00725b1ceb58d0a9, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_1AA44740974C45859FCCB269788FE8D6"
+                    "_177244C1C7424711AD3730DB2F99FCD7"
                     {
-                    "Name" = "8:zxing.dll"
+                    "Name" = "8:Aspose.Cells.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\zxing.dll"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\Aspose.Cells.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
@@ -1840,60 +1705,20 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1BBE8165F83D48CA8D46DD56689590FC"
-            {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\ChnCharInfo.xml"
-            "TargetName" = "8:ChnCharInfo.xml"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1D79166943C74179B1BCF1948F771EF9"
-            {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\Twack_32.dll"
-            "TargetName" = "8:Twack_32.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_25165911C5E04DE1B1947AC0B60D0990"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_1C0D9706E799445B987FAC30E3369145"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Aliyun.OSS, Version=2.3.0.0, Culture=neutral, PublicKeyToken=0ad4175f0dac0b9b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:YXH.ScanBLL, Version=1.1.6590.41613, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
-                    "_25165911C5E04DE1B1947AC0B60D0990"
+                    "_1C0D9706E799445B987FAC30E3369145"
                     {
-                    "Name" = "8:Aliyun.OSS.dll"
+                    "Name" = "8:YXH.ScanBLL.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\Aliyun.OSS.dll"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.ScanBLL.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
@@ -1911,10 +1736,72 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_25665602CDEE430F9158CBF6B1A3D356"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_1DD00D42AA3447AEB761383D44A3044C"
             {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YouXueHui.vshost.exe.manifest"
-            "TargetName" = "8:YouXueHui.vshost.exe.manifest"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:MsgPack, Version=0.1.5750.29748, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_1DD00D42AA3447AEB761383D44A3044C"
+                    {
+                    "Name" = "8:MsgPack.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\MsgPack.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_29B8DE97304F43E09CB602C1E5BAF119"
+            {
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\AnswerSheetRecognition.dll"
+            "TargetName" = "8:AnswerSheetRecognition.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_2B6C7E50DAD3436E88FC71D7EB54E224"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:openCV, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_2B6C7E50DAD3436E88FC71D7EB54E224"
+                    {
+                    "Name" = "8:openCV.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\openCV.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -1962,10 +1849,21 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_31C2EA74A2EF45AF8552D84D4050E602"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_33EBDA0CDD734FC69F6D3586148CCDE8"
             {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\opencv_imgproc249.dll"
-            "TargetName" = "8:opencv_imgproc249.dll"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:YXH.ScanForm, Version=1.2.6590.41614, Culture=neutral, processorArchitecture=x86"
+                "ScatterAssemblies"
+                {
+                    "_33EBDA0CDD734FC69F6D3586148CCDE8"
+                    {
+                    "Name" = "8:YXH.ScanForm.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.ScanForm.exe"
+            "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -1982,10 +1880,21 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3401267B37A8497890E8E5EA5D3D9F57"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_34ACF99B532D440C963371B8A1D60816"
             {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.Scanner.DALFactory.pdb"
-            "TargetName" = "8:YXH.Scanner.DALFactory.pdb"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:YXH.Common.Form, Version=0.1.6590.41612, Culture=neutral, processorArchitecture=x86"
+                "ScatterAssemblies"
+                {
+                    "_34ACF99B532D440C963371B8A1D60816"
+                    {
+                    "Name" = "8:YXH.Common.Form.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.Common.Form.exe"
+            "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -2033,41 +1942,10 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_39A1EE7F69754BC0A36EDDF1B1E95AAC"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3B318ADA90374943876174EB8CA55599"
             {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\Aliyun.OSS.xml"
-            "TargetName" = "8:Aliyun.OSS.xml"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_39AE55DCB8764046BBC0FDD26706EA4A"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Aspose.BarCode, Version=6.1.0.0, Culture=neutral, PublicKeyToken=00725b1ceb58d0a9, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_39AE55DCB8764046BBC0FDD26706EA4A"
-                    {
-                    "Name" = "8:Aspose.BarCode.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\Aspose.BarCode.dll"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\msvcr120.dll"
+            "TargetName" = "8:msvcr120.dll"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -2115,42 +1993,11 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_3F50C6C165DD4E87B5D826BCDA7A7E62"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.TemplateForm, Version=1.1.2.0, Culture=neutral, processorArchitecture=x86"
-                "ScatterAssemblies"
-                {
-                    "_3F50C6C165DD4E87B5D826BCDA7A7E62"
-                    {
-                    "Name" = "8:YXH.TemplateForm.exe"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.TemplateForm.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_3F6AFE68A6F4F5DFD2958B442FEDC149"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.TemplateBLL, Version=0.1.0.0, Culture=neutral, processorArchitecture=x86"
+            "AssemblyAsmDisplayName" = "8:YXH.TemplateBLL, Version=0.1.6590.41613, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
                     "_3F6AFE68A6F4F5DFD2958B442FEDC149"
@@ -2177,20 +2024,20 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4380489043CE4360B17EAEFE992F7DBA"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4354E321F2954778BFBB90AF6FB2D0DF"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:YXH.TemplateBLL, Version=0.1.6590.41613, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
-                    "_4380489043CE4360B17EAEFE992F7DBA"
+                    "_4354E321F2954778BFBB90AF6FB2D0DF"
                     {
-                    "Name" = "8:log4net.dll"
+                    "Name" = "8:YXH.TemplateBLL.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\log4net.dll"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.TemplateBLL.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
@@ -2208,10 +2055,30 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_48E15995BFF94732ACA21CEF1BACE277"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4381E1B3284F42D9B848EF73CA0A4E63"
             {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.Common.Form.pdb"
-            "TargetName" = "8:YXH.Common.Form.pdb"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\opencv_objdetect249.dll"
+            "TargetName" = "8:opencv_objdetect249.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4674DF3736034F42B5A4FD82FE100962"
+            {
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.TemplateForm.pdb"
+            "TargetName" = "8:YXH.TemplateForm.pdb"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -2259,50 +2126,101 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5F2E314CF69A4E2C966C0A76E5C6B0E4"
-            {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\msvcr120.dll"
-            "TargetName" = "8:msvcr120.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_641C5943D7624DDE81827D16F59904BF"
-            {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\Aliyun.OSS.pdb"
-            "TargetName" = "8:Aliyun.OSS.pdb"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_685BAF51EDF741A998B5323DD40F0B5B"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_513D5C11294C47AA8A77EA282102273D"
             {
             "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.Model.pdb"
             "TargetName" = "8:YXH.Model.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5EB97810CB8D4D1B8CFECCE472C8A7B0"
+            {
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\scanlib.dll"
+            "TargetName" = "8:scanlib.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_62FD92F1C0584651B6FAD198D701CE2E"
+            {
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.ScanBLL.pdb"
+            "TargetName" = "8:YXH.ScanBLL.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_66E1A59BB2474EF8979A9D82375E1E5B"
+            {
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\yxh128x128.ico"
+            "TargetName" = "8:yxh128x128.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_699D8B62905A4E55BED8A6F0F9EB07ED"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:YXH.Common, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
+                "ScatterAssemblies"
+                {
+                    "_699D8B62905A4E55BED8A6F0F9EB07ED"
+                    {
+                    "Name" = "8:YXH.Common.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.Common.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -2323,7 +2241,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.Common, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86"
+            "AssemblyAsmDisplayName" = "8:YXH.Common, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
                     "_69AB95C1DCC28A7A4B8557A14DAD76AA"
@@ -2350,20 +2268,20 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_6CCD657D737A49A78602FF6F594ABAF3"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_6E22DA7C4C2A483193683EBE0FBAC968"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.TemplateBLL, Version=0.1.0.0, Culture=neutral, processorArchitecture=x86"
+            "AssemblyAsmDisplayName" = "8:zxing, Version=0.14.0.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_6CCD657D737A49A78602FF6F594ABAF3"
+                    "_6E22DA7C4C2A483193683EBE0FBAC968"
                     {
-                    "Name" = "8:YXH.TemplateBLL.dll"
+                    "Name" = "8:zxing.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.TemplateBLL.dll"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\zxing.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
@@ -2381,50 +2299,21 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6D8D3448414646C49168DB59888F1F73"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_736389F01C2E43AB91228FC23BF14202"
             {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.Common.pdb"
-            "TargetName" = "8:YXH.Common.pdb"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_70938310033B43F5993ECC0764342BF3"
-            {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.HttpHelper.pdb"
-            "TargetName" = "8:YXH.HttpHelper.pdb"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_741F4DEAB0C74A78BE4C5C445F6BAE2E"
-            {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\Version.xml"
-            "TargetName" = "8:Version.xml"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:ChnCharInfo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=18f031bd02e5e291, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_736389F01C2E43AB91228FC23BF14202"
+                    {
+                    "Name" = "8:ChnCharInfo.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\ChnCharInfo.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -2445,7 +2334,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.TemplateForm, Version=1.1.2.0, Culture=neutral, processorArchitecture=x86"
+            "AssemblyAsmDisplayName" = "8:YXH.TemplateForm, Version=1.1.6590.41615, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
                     "_7543F942B6D2764960ACB8A4CA9776BA"
@@ -2472,10 +2361,10 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_76F84909E7F844ADA8E0154772E8A68B"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_78905E7E7C024CDC9006C02FADA2BF2A"
             {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\scanlib.dll"
-            "TargetName" = "8:scanlib.dll"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\opencv_highgui249.dll"
+            "TargetName" = "8:opencv_highgui249.dll"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -2523,40 +2412,20 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7CC472D9DB2D4531ADDA591F67EBC967"
-            {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.TemplateBLL.pdb"
-            "TargetName" = "8:YXH.TemplateBLL.pdb"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_7DDB4305BB89477680784EB29F74AC8E"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_7CC3A4517ABC4C5CAB2AB043C0D15227"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:Ionic.Zip, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_7DDB4305BB89477680784EB29F74AC8E"
+                    "_7CC3A4517ABC4C5CAB2AB043C0D15227"
                     {
-                    "Name" = "8:Newtonsoft.Json.dll"
+                    "Name" = "8:Ionic.Zip.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\Newtonsoft.Json.dll"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\Ionic.Zip.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
@@ -2574,21 +2443,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_827FD06B13C3414FB9A88F2C160F8C5A"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7FEC297DB70D4E319EAD77FFE5064E32"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Aspose.Cells, Version=7.7.2.0, Culture=neutral, PublicKeyToken=00725b1ceb58d0a9, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_827FD06B13C3414FB9A88F2C160F8C5A"
-                    {
-                    "Name" = "8:Aspose.Cells.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\Aspose.Cells.dll"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\PublishVersion.xml"
+            "TargetName" = "8:PublishVersion.xml"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -2605,10 +2463,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_88E3333BE1514DC2B1C8A209D7A40152"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_88F528D0E5454C3E8B5679BD7B4C2460"
             {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.ScanBLL.pdb"
-            "TargetName" = "8:YXH.ScanBLL.pdb"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\log4net.xml"
+            "TargetName" = "8:log4net.xml"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -2656,20 +2514,20 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8BAE561644E24555A97A533B16051F91"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8C37A5E08A3A4F31B3EF6AC7686F8862"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.Common.Form, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86"
+            "AssemblyAsmDisplayName" = "8:YXH.AutoUpdate, Version=0.1.0.0, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
-                    "_8BAE561644E24555A97A533B16051F91"
+                    "_8C37A5E08A3A4F31B3EF6AC7686F8862"
                     {
-                    "Name" = "8:YXH.Common.Form.exe"
+                    "Name" = "8:YXH.AutoUpdate.exe"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.Common.Form.exe"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.AutoUpdate.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
@@ -2687,10 +2545,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_906042C299214C4B8289CDF34806BD41"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_93C5201CF91F43A3A315CFA59E500C9F"
             {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\UpdateExplain.xml"
-            "TargetName" = "8:UpdateExplain.xml"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.Scanner.DALFactory.pdb"
+            "TargetName" = "8:YXH.Scanner.DALFactory.pdb"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -2707,41 +2565,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_93F1C1DA45C3404ABE444A5018832B5F"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_948BA8E80F6740EE840145C026B5E346"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.ScanForm, Version=1.2.1.0, Culture=neutral, processorArchitecture=x86"
-                "ScatterAssemblies"
-                {
-                    "_93F1C1DA45C3404ABE444A5018832B5F"
-                    {
-                    "Name" = "8:YXH.ScanForm.exe"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.ScanForm.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_93F393CCA61D4B9B951F034E39804458"
-            {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\AnswerSheetRecognition.dll"
-            "TargetName" = "8:AnswerSheetRecognition.dll"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.HttpHelper.pdb"
+            "TargetName" = "8:YXH.HttpHelper.pdb"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -2789,6 +2616,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9568B29AC4494C1097D18B465A36C3B7"
+            {
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.Common.pdb"
+            "TargetName" = "8:YXH.Common.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9B6E349AB2474F1F873A03437DED3081"
             {
             "SourcePath" = "8:..\\YXH.Main\\Resources\\yxh128x128.ico"
@@ -2809,10 +2656,72 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A09625D563CC4080AAE68D76F08C87A8"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9C9D020ADF774CFCAF97281F66B392BE"
             {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YouXueHui.exe.config"
-            "TargetName" = "8:YouXueHui.exe.config"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:vshost32, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86"
+                "ScatterAssemblies"
+                {
+                    "_9C9D020ADF774CFCAF97281F66B392BE"
+                    {
+                    "Name" = "8:YouXueHui.vshost.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YouXueHui.vshost.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9ED724F720B9412EBD8568249A9BF9EC"
+            {
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\UpdateExplain.xml"
+            "TargetName" = "8:UpdateExplain.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A1FE554D272745029E9F98446953C4E2"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:YXH.Model, Version=1.1.6590.41611, Culture=neutral, processorArchitecture=x86"
+                "ScatterAssemblies"
+                {
+                    "_A1FE554D272745029E9F98446953C4E2"
+                    {
+                    "Name" = "8:YXH.Model.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.Model.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -2860,6 +2769,68 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A516FE70B5614822ACB13CE1D5A986F8"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_A516FE70B5614822ACB13CE1D5A986F8"
+                    {
+                    "Name" = "8:log4net.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\log4net.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A5586881BE834B2EA2A4077CD2D30D58"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_A5586881BE834B2EA2A4077CD2D30D58"
+                    {
+                    "Name" = "8:Newtonsoft.Json.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\Newtonsoft.Json.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A7EEE38F21F6028FD00360864738ADEE"
             {
             "AssemblyRegister" = "3:1"
@@ -2889,6 +2860,46 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A95BDF4B216D4CC68BFA8AA1C0B91652"
+            {
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.Common.Form.pdb"
+            "TargetName" = "8:YXH.Common.Form.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_ABD23C638B6B4C2EA6E2AB0134D23092"
+            {
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\Aliyun.OSS.xml"
+            "TargetName" = "8:Aliyun.OSS.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_AC6AD03D38FDA5B3CE8FA1369DE2EC03"
@@ -2953,14 +2964,14 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_B2B69EE98CEE41F693A6384A5B61D86F"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_B83BB9BA14BC42BF83AE3A370D6EED22"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.Scanner.DALFactory, Version=1.1.0.0, Culture=neutral, processorArchitecture=x86"
+            "AssemblyAsmDisplayName" = "8:YXH.Scanner.DALFactory, Version=1.1.6590.41613, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
-                    "_B2B69EE98CEE41F693A6384A5B61D86F"
+                    "_B83BB9BA14BC42BF83AE3A370D6EED22"
                     {
                     "Name" = "8:YXH.Scanner.DALFactory.dll"
                     "Attributes" = "3:512"
@@ -2984,10 +2995,30 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BA5515C4BDAC4353ADEB1B8232ACBFD9"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BECBB8F2340047438BC0607CFD97ADE7"
             {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\opencv_ml249.dll"
-            "TargetName" = "8:opencv_ml249.dll"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\Version.xml"
+            "TargetName" = "8:Version.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C1781300DCE34631A894BECBAB858D00"
+            {
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YouXueHui.pdb"
+            "TargetName" = "8:YouXueHui.pdb"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -3008,7 +3039,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.Model, Version=1.1.1.0, Culture=neutral, processorArchitecture=x86"
+            "AssemblyAsmDisplayName" = "8:YXH.Model, Version=1.1.6590.41611, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
                     "_C1BDAA255AA43DDCD53877D7032168B9"
@@ -3070,7 +3101,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.Scanner.DALFactory, Version=1.1.0.0, Culture=neutral, processorArchitecture=x86"
+            "AssemblyAsmDisplayName" = "8:YXH.Scanner.DALFactory, Version=1.1.6590.41613, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
                     "_C48DC6B7554B30AC4BBF6FA3C7BB6A03"
@@ -3097,21 +3128,41 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C5847C556CB749309FA44FB1F1500399"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C4A5DE6FA8B6438E8F52A720F3F67473"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Ionic.Zip, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:Aliyun.OSS, Version=2.3.0.0, Culture=neutral, PublicKeyToken=0ad4175f0dac0b9b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_C5847C556CB749309FA44FB1F1500399"
+                    "_C4A5DE6FA8B6438E8F52A720F3F67473"
                     {
-                    "Name" = "8:Ionic.Zip.dll"
+                    "Name" = "8:Aliyun.OSS.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\Ionic.Zip.dll"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\Aliyun.OSS.dll"
             "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C4EE841D246E4421B1AF70E0A2DF4920"
+            {
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YouXueHui.vshost.exe.manifest"
+            "TargetName" = "8:YouXueHui.vshost.exe.manifest"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -3132,7 +3183,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.Common.Form, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86"
+            "AssemblyAsmDisplayName" = "8:YXH.Common.Form, Version=0.1.6590.41612, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
                     "_C77D7D2EB404D14948895103882561C4"
@@ -3159,10 +3210,41 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D3F10B95CEA449E5A5EA650A3626A461"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C85FA1B729034153AD79A83969693189"
             {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YouXueHui.pdb"
-            "TargetName" = "8:YouXueHui.pdb"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:YouXueHui, Version=1.0.6590.41622, Culture=neutral, processorArchitecture=x86"
+                "ScatterAssemblies"
+                {
+                    "_C85FA1B729034153AD79A83969693189"
+                    {
+                    "Name" = "8:YouXueHui.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YouXueHui.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C9B73562589A4E57B8B56D3F5C2E76C9"
+            {
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\Twack_32.dll"
+            "TargetName" = "8:Twack_32.dll"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -3210,42 +3292,11 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D7633210D7CF4C5B974FA428F8A07DEC"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:openCV, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_D7633210D7CF4C5B974FA428F8A07DEC"
-                    {
-                    "Name" = "8:openCV.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\openCV.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D81D6F956170138AB9452E59355B4D63"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.ScanBLL, Version=1.1.0.0, Culture=neutral, processorArchitecture=x86"
+            "AssemblyAsmDisplayName" = "8:YXH.ScanBLL, Version=1.1.6590.41613, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
                     "_D81D6F956170138AB9452E59355B4D63"
@@ -3303,26 +3354,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DA40596AE4A44B53895282EDC6FB6144"
-            {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.AutoUpdate.pdb"
-            "TargetName" = "8:YXH.AutoUpdate.pdb"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_DA54E49B2844E9253365BA554E52727B"
             {
             "AssemblyRegister" = "3:1"
@@ -3354,10 +3385,10 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DB19F7ACA1CC4C698C8A9985ADAE79F9"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E48E768764D94E949131B97EF66D6CA1"
             {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\PublishVersion.xml"
-            "TargetName" = "8:PublishVersion.xml"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\log.txt"
+            "TargetName" = "8:log.txt"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -3374,21 +3405,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_DEA662699BA7423D81CD95F2190B46F1"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E605AA8201864CD4BB44F6D132BE3212"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.HttpHelper, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_DEA662699BA7423D81CD95F2190B46F1"
-                    {
-                    "Name" = "8:YXH.HttpHelper.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.HttpHelper.dll"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\cvblob.dll"
+            "TargetName" = "8:cvblob.dll"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -3405,81 +3425,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_DFED9BB988B147DA8E0B002DADFB4A65"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E6BAA694AF4948A3BFE1E401EFE2CD88"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.Common, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86"
-                "ScatterAssemblies"
-                {
-                    "_DFED9BB988B147DA8E0B002DADFB4A65"
-                    {
-                    "Name" = "8:YXH.Common.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.Common.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E05FC3BCC731465E9F46578A75B2A283"
-            {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.ScanForm.pdb"
-            "TargetName" = "8:YXH.ScanForm.pdb"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E477B3C4930147939311837ECBC7015B"
-            {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YouXueHui.vshost.exe.config"
-            "TargetName" = "8:YouXueHui.vshost.exe.config"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E602995977324963850546685F5B1B84"
-            {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\opencv_objdetect249.dll"
-            "TargetName" = "8:opencv_objdetect249.dll"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\opencv_core249.dll"
+            "TargetName" = "8:opencv_core249.dll"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -3500,7 +3449,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.HttpHelper, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:YXH.HttpHelper, Version=1.1.6590.41607, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_E734CDEC55178762A1FEB895F7C5E15C"
@@ -3589,10 +3538,10 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E94F3D4C800E4BB4A6C54947994E0897"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E9828A64E98F44499BBF5447A3CC8383"
             {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\log.txt"
-            "TargetName" = "8:log.txt"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\opencv_imgproc249.dll"
+            "TargetName" = "8:opencv_imgproc249.dll"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -3640,10 +3589,10 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EAADE223BEC443DAB706CA1471118BCE"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EA9D421659EC48F5A86205FCF87B74CB"
             {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\opencv_highgui249.dll"
-            "TargetName" = "8:opencv_highgui249.dll"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\msvcp120.dll"
+            "TargetName" = "8:msvcp120.dll"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -3715,7 +3664,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.ScanForm, Version=1.2.1.0, Culture=neutral, processorArchitecture=x86"
+            "AssemblyAsmDisplayName" = "8:YXH.ScanForm, Version=1.2.6590.41614, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
                     "_ED244F8DDEC1467BC638D3EC910D1F2A"
@@ -3773,21 +3722,103 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F16D8D739E61482F94A654BAC736F790"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_EF9D33D908ED448584B8D772D0E41952"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:vshost32, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86"
+            "AssemblyAsmDisplayName" = "8:Aspose.BarCode, Version=6.1.0.0, Culture=neutral, PublicKeyToken=00725b1ceb58d0a9, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_F16D8D739E61482F94A654BAC736F790"
+                    "_EF9D33D908ED448584B8D772D0E41952"
                     {
-                    "Name" = "8:YouXueHui.vshost.exe"
+                    "Name" = "8:Aspose.BarCode.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YouXueHui.vshost.exe"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\Aspose.BarCode.dll"
             "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F14E4F67DB064221B27328F65465677A"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:YXH.TemplateForm, Version=1.1.6590.41615, Culture=neutral, processorArchitecture=x86"
+                "ScatterAssemblies"
+                {
+                    "_F14E4F67DB064221B27328F65465677A"
+                    {
+                    "Name" = "8:YXH.TemplateForm.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.TemplateForm.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F3CDDFC6FFCD42D9941EA9C0408C8B19"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:YXH.HttpHelper, Version=1.1.6590.41607, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_F3CDDFC6FFCD42D9941EA9C0408C8B19"
+                    {
+                    "Name" = "8:YXH.HttpHelper.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.HttpHelper.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F5A3DB1ED1654221AEF5C0FE7FDB8C16"
+            {
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\Aliyun.OSS.pdb"
+            "TargetName" = "8:Aliyun.OSS.pdb"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -3866,41 +3897,10 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FAEFA2350FFC4203BEEFD75AAB462547"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FF487EA1FF2E41289DF7878B8CA883AF"
             {
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\yxh128x128.ico"
-            "TargetName" = "8:yxh128x128.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_FDBE08758C044C99A94DFFA4BF714495"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:YXH.ScanBLL, Version=1.1.0.0, Culture=neutral, processorArchitecture=x86"
-                "ScatterAssemblies"
-                {
-                    "_FDBE08758C044C99A94DFFA4BF714495"
-                    {
-                    "Name" = "8:YXH.ScanBLL.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YXH.ScanBLL.dll"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\YXH.Main\\bin\\x86\\Release\\YouXueHui.exe.config"
+            "TargetName" = "8:YouXueHui.exe.config"
             "Tag" = "8:"
             "Folder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Condition" = "8:"
@@ -3995,15 +3995,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:YouXueHui"
-        "ProductCode" = "8:{ADA41F58-FA38-4789-BE2C-7DDB240C72E6}"
-        "PackageCode" = "8:{1CDA6874-EFA4-4324-A798-AE7E02F0AC37}"
+        "ProductCode" = "8:{39A0623E-277B-4A67-B3B5-525DD3C19BC1}"
+        "PackageCode" = "8:{98754820-1FE5-4FE9-B45C-039771401C01}"
         "UpgradeCode" = "8:{B6832A2F-4524-4ABB-B87C-B6364F08702B}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.5.2"
+        "ProductVersion" = "8:1.5.4"
         "Manufacturer" = "8:优学汇"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -4116,7 +4116,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_76ED953EBDA749A9B167C58A635873CE"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_729C145EE6544D52AE0DB5F42AE6B9A4"
             {
             "Name" = "8:优学汇客户端"
             "Arguments" = "8:"
@@ -4124,21 +4124,7 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_0689AB4B6F28478BA5FC643B53589245"
-            "Folder" = "8:_AB9830CE402A486D80E79366B8C0D023"
-            "WorkingFolder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
-            "Icon" = "8:_9B6E349AB2474F1F873A03437DED3081"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_9911568E40BF4ACB9ED5A9CFE82B0E15"
-            {
-            "Name" = "8:优学汇客户端"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_0689AB4B6F28478BA5FC643B53589245"
+            "Target" = "8:_C85FA1B729034153AD79A83969693189"
             "Folder" = "8:_64CE2CCCCFB247C88045406F6BDECE10"
             "WorkingFolder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Icon" = "8:_9B6E349AB2474F1F873A03437DED3081"
@@ -4147,7 +4133,7 @@
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_BD29FAEA32804A4B9E62922987C12C19"
             {
             "Name" = "8:卸载"
-            "Arguments" = "8:/x {ADA41F58-FA38-4789-BE2C-7DDB240C72E6}"
+            "Arguments" = "8:/x {39A0623E-277B-4A67-B3B5-525DD3C19BC1}"
             "Description" = "8:"
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
@@ -4156,6 +4142,20 @@
             "Folder" = "8:_64CE2CCCCFB247C88045406F6BDECE10"
             "WorkingFolder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
             "Icon" = "8:"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_E8042ED4BEDD430C9236C34FBAD3329C"
+            {
+            "Name" = "8:优学汇客户端"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_C85FA1B729034153AD79A83969693189"
+            "Folder" = "8:_AB9830CE402A486D80E79366B8C0D023"
+            "WorkingFolder" = "8:_8F7869B7DC9A4B22A51E51038B199330"
+            "Icon" = "8:_9B6E349AB2474F1F873A03437DED3081"
             "Feature" = "8:"
             }
         }
