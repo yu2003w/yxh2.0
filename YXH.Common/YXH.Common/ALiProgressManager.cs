@@ -31,7 +31,7 @@ namespace YXH.Common
             if (string.IsNullOrEmpty(isTestSetting) || Convert.ToBoolean(isTestSetting))
             {
                 //测试环境
-                endPoint = "oss-cn-hangzhou.aliyuncs.com";
+                endPoint = "aliyundizhi";
                 accessKeyId = "LTAIRf0qaQSS6Y2x";
                 accessKeySecret = "IaPIEYKXxtZ5k6XynMPhFPfLoqnXAn";
                 bucketName = "ustudypaper";
